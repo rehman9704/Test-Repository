@@ -1,0 +1,124 @@
+Employee Name,Zoho ID,Department,Status,Business Unit,Client,Project,Month Billable,Month Non-Billable,Cost
+Deepthi Menta,10010656,HCL Commerce,Non-Billable,Digital Commerce,"Augusta Sportswear","B2B Support",168,0,$1,665
+Monika Pal,10012956,Delivery - DC,Non-Billable,Digital Commerce,"Rock West Composites, United Farmers of Alberta Co-operative Limited (UFA), Cornerstone Building Brands, HCL Software Inc., Augusta Sportswear","Rockwest SFMC Setup_Integration, UFA Staff Agg, CBB_MBCI_Mobile_Optimization, HCL Bootcamp., CBB_Fortfiy 3D Visualizer SSO, B2B Support",92,54,$3,194
+Karan Panchal,10013766,Commercetools,Non-Billable,Digital Commerce,"Dr. Reddy's Laboratories Limited, Digital Commerce","Dr. Reddy’s Laboratories-AMP, DC Internal Project",72,64,$1,637
+Akshay Swarnakumar,10013795,Commercetools,Non-Billable,Digital Commerce,"Mars Information Services Inc.","Mars- Phoenix 2025",176,0,$8,549
+Antoline Natasha Rayappan,10000167,Delivery - DC,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$4,247
+Muhammad Hammad Ezad,10013475,Data Science,Non-Billable,Digital Commerce,"Niagara Bottling","ADF/Databricks/AIML - Professional Services",144,0,$2,193
+Shilpi Verma,10010688,SAP,Non-Billable,Digital Commerce,"Fletcher Building - MICO, Fletcher Building - TradeLink","Mico B2B Portal and Mobile App, Tradelink",112,0,$4,251
+Supriya Pachpute,10012138,Delivery - DC,Non-Billable,Digital Commerce,"Omega Engineering, Inc","Hybris, Salesforce, Syteline, Data, PowerBI",144,0,$3,441
+Hareesh Naidu Basani,10012889,Business Intelligence,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,279
+Angelin Sharon Prathana Daniel Nayagam,10010155,SAP,No Timesheet Filled,Digital Commerce,"Fletcher Builder","PlaceMakers Trade ecommerce B2B",0,0,$2,668
+Ashish Gondane,10012289,QA Testing,Non-Billable,Digital Commerce,"Augusta Sportswear","UA Builder",164,0,$1,701
+Suseedhar M,10000740,UI,Non-Billable,Digital Commerce,"Augusta Sportswear","B2B Support, Refill-Redesign",136,0,$1,445
+Fajruddin S K,10013892,SAP,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Hybris Development",112,0,$2,788
+Praveen M G,10012260,Adobe,Non-Billable,Digital Commerce,"PetBarn, Digital Commerce, Amarr Company","Petbarn AREN, DC Internal Project, AEM (Adobe Experience Manager) Staff Augmentation",56,20,$516
+Niroshan R,10012250,Commercetools,Non-Billable,Digital Commerce,"Mars Information Services Inc.","Mars- Phoenix 2025",160,0,$495
+Usman Mehmood,10010262,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P, Digital Commerce, Indigo Books & Music Inc.","ACIMA Customer Portal, DC Internal Project, Indigo SFCC 2023",160,0,$10,243
+Sai Lakshmi Priya CH,10012859,SAP,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Hybris Development",144,0,$4,007
+Eva Saini,10012133,Business Analysis,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$658
+Muhammad Waqas Khalid,10000249,Mobile,Non-Billable,Digital Commerce,"Fletcher Building - TradeLink, Fletcher Building - MICO, Digital Commerce","Tradelink, Mico B2B Portal and Mobile App, DC Internal Project",100,0,$2,498
+Ashok Lakshman,10012848,Delivery - DC,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$4,710
+Abhishek Kumar,10114353,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,126
+Dhana Rani Veerabathula,10012984,Salesforce,Non-Billable,Digital Commerce,"Omega Engineering, Inc","Salesforce",160,0,$1,991
+Luqman Khanzada,10012188,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,168,$660
+Taha Hamid,10013068,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,144,$3,703
+Masood Tariq,10012580,SAP,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Hybris Development",0,160,$567
+Salman Sajid,10013128,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce, Rock West Composites","DC Internal Project, Rockwest Website",21,0,$1,889
+Mudassar Sultan,10011176,UI,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Hybris Development",0,136,$1,397
+Anshul Pandey,10000313,HCL Commerce,Non-Billable,Digital Commerce,"Augusta Sportswear","B2B Support",160,0,$2,011
+Syeda Ambreen Zehra Abidi,10012488,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce, Rock West Composites, Bynder LLC","DC Internal Project, Rockwest SFMC Setup_Integration, Integration LINK Cartridge Development",147.25,0,$1,701
+Wasif  Dawar,10010114,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,136,$586
+Farzeen Saleem,10013027,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Ecomm-SFB2CComposable Migration",168,0,$1,550
+Abdul Raouf,10012507,Delivery - DC,Non-Billable,Digital Commerce,"HD Supply Support Services, Inc., Kyocera, Xcelacore Inc","HD Supply -Support, IBM App Connect Professional, Tableau, Xcelacore AquaPure Support 2023",0,78,$2,759
+Nanda Kishore Sampatirao,10000181,UX,Non-Billable,Digital Commerce,"Mars Information Services Inc., Follett Corporation","Mars- Phoenix 2025, Follett",120,0,$4,062
+Nikhil Kumar,10114321,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,536
+Bashir Uddin,10011067,QA Testing,Non-Billable,Digital Commerce,"White Cap Supply Holdings, LLC.","WhiteCap - Maintenance Support",0,152,$1,512
+Syed Raheel Ali,10000187,HCL Commerce,Non-Billable,Digital Commerce,"Augusta Sportswear","B2B Support",152,0,$1,965
+Abdul Rafay,10010744,Mobile,Non-Billable,Digital Commerce,"Fletcher Building - MICO, Fletcher Building - TradeLink, Digital Commerce","Mico B2B Portal and Mobile App, Tradelink, DC Internal Project",120,0,$551
+Mohan Raj Asok Kumar,10010689,UX,Non-Billable,Digital Commerce,"Vinod Patel Group, Aroya Cruises Limited, Fletcher Building - Laminex, Digital Commerce","Vinod Patel - Finance Hub, Aroya Cruises Reservation Website revamp, Laminex AMS, DC Internal Project",72,24,$7,476
+Shivam Soni,10013927,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,432
+Osama Akhlaq,10010791,Business Analysis,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P, Digital Commerce","ACIMA Customer Portal, Ecomm-SFB2CComposable Migration, DC Internal Project",152,0,$1,246
+Syamala Haritha Kolisetty,10013105,Delivery - DC,Non-Billable,Digital Commerce,"Work Wear Group Consultancy, PetBarn, Gallagher Group Limited","Work Wear Group Consultancy, ACM Professional Services, Gallagher",0,160,$3,385
+Muhammad Shahid Naqash,10012606,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Ecomm-SFB2CComposable Migration",160,0,$944
+Shahmir Khan,10013336,Commercetools,Non-Billable,Digital Commerce,"GWA Group Limited","GWA-Foundation",160,0,$982
+Vaagisha Choudhary,10114224,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,160,$1,228
+Sameed Siddiqui,10000282,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Ecomm-SFB2CComposable Migration",144,0,$2,078
+Soorya S,10013468,HCL Commerce,Non-Billable,Digital Commerce,"Augusta Sportswear","UA Builder",128,0,$1,590
+Krishna Kumar,10000777,Delivery - DC,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$4,553
+Shruti Agarwal,10012577,SAP,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,112,$307
+Gowni Sridhar,10012527,SAP,Non-Billable,Digital Commerce,"Fletcher Builder, Digital Commerce","PlaceMakers Trade ecommerce B2B, DC Internal Project",176,0,$3,654
+Saroj Dubey,10010794,Support Managed Services - DC,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","RAC 24x7 Support",144,12,$460
+Abdul Basit,10012326,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Ecomm-SFB2CComposable Migration",168,0,$1,095
+Sudhanshu Singh,10114237,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,152,$1,536
+Mahesh Babu Emani,10012753,Fullstack Services,Non-Billable,Digital Commerce,"Momentec Brands","Momentec Brands Staff Aug",160,0,$4,917
+Prakash K,10114359,Delivery - DC,Non-Billable,Digital Commerce,"Augusta Sportswear","Augusta - Delivery & PMO Tasks, B2B Support",56,112,$3,891
+Mahaveer Amudhachandran,10000520,3D Plus,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$23,129
+Laxmi Pavani,10013228,Business Analysis,Non-Billable,Digital Commerce,"GWA Group Limited, Richardson Sports, Digital Commerce","GWA-Foundation, Richardson Sports - CR and Support 2, DC Internal Project",0,176,$658
+Sharmila Periyasamy,10013684,Commercetools,Non-Billable,Digital Commerce,"GWA Group Limited","GWA-Foundation",0,168,$1,022
+Jatin Udasi,10114291,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,022
+Barkatulla Khan,10012304,Adobe,Non-Billable,Digital Commerce,"Digital Commerce, Amarr Company","DC Internal Project, AEM (Adobe Experience Manager) Staff Augmentation",24,136,$516
+Khizar Touqeer,10013776,Delivery - DC,No Timesheet Filled,Digital Commerce,"United Refrigeration Industries Ltd. (DAWLANCE)","Arcelik",0,0,$2,078
+Gopinath Kabali,10013939,Proposal Management,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,72,$1,445
+Nada Waqar,10114001,Business Analysis,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,136,$378
+Syed Abbas Abid,10013367,Commercetools,Non-Billable,Digital Commerce,"Mars Information Services Inc.","Mars- Phoenix 2025",160,0,$2,173
+Sangeetha Priya,10012431,SAP,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P, Digital Commerce","Hybris Development, DC Internal Project",168,0,$1,790
+Foha Khalid,10013175,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce, Rock West Composites","DC Internal Project, Rockwest SFMC Setup_Integration",40,116,$1,663
+Muhammad Sheheryar Afsar,10010985,Salesforce,Non-Billable,Digital Commerce,"Rock West Composites, Digital Commerce","Rockwest SFMC Setup_Integration, DC Internal Project",144,0,$2,646
+Habiba Ayaz,10001057,Salesforce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Ecomm-SFB2CComposable Migration",168,0,$1,435
+Muhammad Iftikhar Khan,10010346,Salesforce,Non-Billable,Digital Commerce,"Bynder LLC, Digital Commerce","Integration LINK Cartridge Development, DC Internal Project",96,64,$9,985
+Narender Banoth,10010789,UI,Non-Billable,Digital Commerce,"Digital Commerce, Richardson Sports","DC Internal Project, Richardson Sports - CR and Support 2",56,104,$773
+Riya Saha,10013230,Delivery - DC,Non-Billable,Digital Commerce,"Fletcher Builder","PlaceMakers Trade ecommerce B2B",0,128,$1,688
+Anthony  Hyun,10010292,UX,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$15,632
+Nandani Mandloi,10013695,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce, Food Ventures North America, Inc. (Wild Fork)","DC Internal Project, CSA-Wild Fork",56,120,$2,149
+Ashish Garg,10010506,UI,Non-Billable,Digital Commerce,"Digital Commerce, KIECO Exchange, Emerging Technologies","DC Internal Project, KIECO APP, ET Internal Project",0,160,$700
+Sandeep Math,10012408,Support Managed Services - DC,Non-Billable,Digital Commerce,"Fletcher Building - Laminex","Laminex AMS",168,0,$653
+Nova J,10012021,SAP,Non-Billable,Digital Commerce,"Fletcher Builder","PlaceMakers Trade ecommerce B2B",0,168,$580
+Hemant Kumar Gabra,10010603,UI,Non-Billable,Digital Commerce,"Digital Commerce, Richardson Sports","DC Internal Project, Richardson Sports - CR and Support 2",88,88,$2,233
+Muhammad Usman,10012238,Salesforce,Non-Billable,Digital Commerce,"YDesign Group","Salesforce Managed Services - YDesign Group",0,152,$1,304
+Sucheta Amit Shevale,10011167,UI,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$1,221
+Sunil Raj S,10000570,UI,Non-Billable,Digital Commerce,"Momentec Brands","Momentec Brands Staff Aug",158,0,$1,981
+Faizan Hasan,10000104,HCL Commerce,Non-Billable,Digital Commerce,"Abercrombie & Fitch Co.","Staff Augmentation",136,0,$2,495
+Muhammad Nawaz Anjum,10013616,Delivery - DC,Non-Billable,Digital Commerce,"GWA Group Limited","GWA-Foundation",80,88,$2,456
+Syed Shahnawaz Ali,10000299,Mobile,Non-Billable,Digital Commerce,"Fletcher Builder","PlaceMakers Trade ecommerce B2B",168,0,$2,740
+Aparna Suresh Kumar,10013331,Business Analysis,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,168,$1,434
+Prabhjas Singh Bajwa,10012796,Commercetools,Non-Billable,Digital Commerce,"GWA Group Limited","GWA-Foundation",136,0,$3,075
+Hubaib Ur Rehman,10001075,SAP,Non-Billable,Digital Commerce,"Omega Engineering, Inc","Data",152,0,$869
+Lala Asif Ali Allana,10000056,Salesforce,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$12,925
+Mansoor Syed,10114416,Delivery - DC,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$10,799
+Hishmat Rai,10012443,Salesforce,Non-Billable,Digital Commerce,"Rock West Composites, Digital Commerce","Rockwest SFMC Setup_Integration, DC Internal Project",144,0,$2,021
+Rabiya Saad,10011132,QA Testing,Non-Billable,Digital Commerce,"Food Ventures North America, Inc. (Wild Fork), Emerging Technologies","CSA-Wild Fork, ET Internal Project",76,68,$1,228
+Barathkumar Janarthanan,10012150,Commercetools,Non-Billable,Digital Commerce,"GWA Group Limited","GWA-Foundation",160,0,$9,045
+Subodha Palei,10013019,Business Intelligence,Non-Billable,Digital Commerce,"Digital Commerce, Knights of Columbus","DC Internal Project, KofC Data Modernization",0,168,$4,300
+Pallabi Das,10000949,SAP,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P","Hybris Development",24,0,$12,420
+Mohammad Bilal G,10012233,Commercetools,Non-Billable,Digital Commerce,"Food Ventures North America, Inc. (Wild Fork), Digital Commerce","CSA-Wild Fork, DC Internal Project",52,124,$325
+Arunkumar V R,10012288,3D Plus,Non-Billable,Digital Commerce,"Richardson Sports, Digital Commerce","Richardson Sports - CR and Support 2, DC Internal Project",160,0,$1,765
+Mohammed Ashraf,10013573,Delivery - DC,Non-Billable,Digital Commerce,"Advanced Electronics Co. Ltd.","MoS PgMs",152,0,$8,400
+Shahbaz Ali,10010983,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,152,$1,663
+Girija Shankar Sahoo,10010759,UI,Non-Billable,Digital Commerce,"Augusta Sportswear, Digital Commerce","B2B Support, DC Internal Project",136,24,$2,962
+Viraj Doshi,10013687,Delivery - DC,No Timesheet Filled,Digital Commerce,"GWA Group Limited, Work Wear Group Consultancy, Fletcher Builder, Fletcher Building - MICO, Kina Bank","GWA IOT, Work Wear Group Consultancy, PlaceMakers Trade ecommerce B2B, Mico B2B Portal and Mobile App, Kina Bank, GWA-Foundation",0,0,$3,923
+Arsalan Ahmed Shaikh,10000054,HCL Commerce,Non-Billable,Digital Commerce,"Rent-A-Center Texas, L.P, Digital Commerce","ACIMA Customer Portal, DC Internal Project",168,0,$1,550
+Muhamad Tawfeeq,10114226,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,172,$717
+Ahsan Zubair,10013942,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,152,$1,512
+Aakash Gupta,10013595,Commercetools,Non-Billable,Digital Commerce,"Vinod Patel Group","Vinod Patel - Finance Hub",32,0,$3,891
+Sharad Mishra,10010835,Business Analysis,Non-Billable,Digital Commerce,"Fletcher Building, KIECO Exchange","Project Delivery & PMO Tasks, KIECO APP",64,0,$1,253
+Nitin Sahu,10011162,UI,Non-Billable,Digital Commerce,"Augusta Sportswear","B2B Support",152,0,$1,694
+Bushra Jahangir,10013668,Delivery - DC,Non-Billable,Digital Commerce,"Middle East & North Africa Beverages Manufacturing Company (MENABEV), Omega Engineering, Inc, Digital Commerce","MenaBEV, Data, PowerBI, DC Internal Project",168,0,$2,205
+Venkateswarlu Konda,10012762,SAP,Non-Billable,Digital Commerce,"Digital Commerce, Rent-A-Center Texas, L.P","DC Internal Project, Hybris Development",160,0,$3,508
+Muhammad Zaid Sarfraz,10013282,Salesforce,Non-Billable,Digital Commerce,"Guru Denim LLC., Digital Commerce","True Religion, DC Internal Project",144,0,$2,866
+Samson Peter,10000895,Salesforce,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,136,$3,590
+Mohammed Ismail Kammu,10114241,Data Engineering,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,176,$1,619
+Kiran Vinay,10012231,Commercetools,Non-Billable,Digital Commerce,"Digital Commerce, Food Ventures North America, Inc. (Wild Fork)","DC Internal Project, CSA-Wild Fork",40,104,$454
+Augustine Andrew Francis,10012323,Salesforce,Non-Billable,Digital Commerce,"YDesign Group","Salesforce Managed Services - YDesign Group",160,0,$982
+Kanchan Rautela,10012564,Delivery - DC,Non-Billable,Digital Commerce,"Fortune Brands Global Plumbing Group","Fortune Brands Innovations",88,0,$3,234
+Madhavi Kundurthi,10114397,Fullstack Services,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$4,504
+Nivedita Yadav,10000384,QA Testing,Non-Billable,Digital Commerce,"Augusta Sportswear","UA Builder, Refill-Redesign",168,0,$1,548
+Abdur Raheem,10012924,Adobe,Non-Billable,Digital Commerce,"Richardson Sports, Digital Commerce","Richardson Sports - CR and Support 2, DC Internal Project",160,0,$3,619
+Abdul Wahab Halidu Maraikayar,10000020,SAP,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$18,096
+Vaishnavi  Suyog A R,10012064,Big Commerce,No Timesheet Filled,Digital Commerce,"Digital Commerce","DC Internal Project",0,0,$1,617
+Kumaraswamy Irugushetty,10013634,Delivery - DC,Non-Billable,Digital Commerce,"Vinod Patel Group","Vinod Patel - Finance Hub",32,0,$3,275
+Mohammad Abdul Wahab Khan,10114331,Support Managed Services - DC,Non-Billable,Digital Commerce,"HD Supply Support Services, Inc.","Network Support",0,192,$1,022
+Ghazala Bibi,10012529,UI,Non-Billable,Digital Commerce,"Digital Commerce","DC Internal Project",0,136,$680
+Naga Mallika Bannaravuri,10013192,Business Analysis,Non-Billable,Digital Commerce,"Vinod Patel Group, Digital Commerce","Vinod Patel - Finance Hub, DC Internal Project",32,144,$2,598
+Roopa S,10012815,SAP,No Timesheet Filled,Digital Commerce,N/A,N/A,0,0,$1,537
+Sindhu K,10012742,SAP,No Timesheet Filled,Digital Commerce,"Work Wear Group Consultancy","Work Wear Group Consultancy",0,0,$3,210
